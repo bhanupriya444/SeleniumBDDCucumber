@@ -1,0 +1,34 @@
+{
+  "users": {
+    "valid_user": {
+      "username": "standard_user",
+      "password": "secret_sauce"
+    },
+    "locked_user": {
+      "username": "locked_out_user",
+      "password": "secret_sauce"
+    },
+    "problem_user": {
+      "username": "problem_user",
+      "password": "secret_sauce"
+    },
+    "invalid_user": {
+      "username": "invalid_user",
+      "password": "wrong_password"
+    }
+  },
+  "products": [
+    {
+      "name": "Sauce Labs Backpack",
+      "price": 29.99
+    },
+    {
+      "name": "Sauce Labs Bike Light",
+      "price": 9.99
+    },
+    {
+      "name": "Sauce Labs Bolt T-Shirt",
+      "price": 15.99
+    }
+  ]
+}
